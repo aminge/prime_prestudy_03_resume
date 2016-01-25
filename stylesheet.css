@@ -1,0 +1,30 @@
+body {
+  margin: 10px;
+  font-family: 'Times New Roman', serif;
+  font-size: 14;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 30px;
+  margin-bottom: 0px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+h3 {
+  font-size: 18px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+
+ul {
+  padding-left: 18px;
+  margin-top: 4px;
+}
+
+.personal-information, .work, .school {
+  margin-left: 14px;
+}
